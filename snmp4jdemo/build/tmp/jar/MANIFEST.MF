@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Modlue: snmp4jdemo
+Implementation-Title: snmp4jdemo
+Built-With: gradle-8.5, groovy-3.0.17
+Built-Date: 24. 11. 15 오후 4:05:14
+Created-By: Java 1.8.0_412 (Temurin)
+
